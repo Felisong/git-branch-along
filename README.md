@@ -8,11 +8,6 @@
 
 ## Brazo de Reina
 
-- [Cheese Empanadas](#cheese-empanadas)
-- [Torta de Milhojas](#torta-de-milhojas)
-
-## Brazo de Reina
-
 ## ![Brazo de Reina](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/b338ab0e-2168-50fb-81ea-3f8801b85772/26118fa7-7381-57be-87f4-e056ca7a6e95.jpg)
 
 To make a delicious Brazo de Reina, a traditional Chilean rolled cake filled with dulce de leche, follow this recipe. This dessert is known for its light sponge cake and rich caramel filling, often topped with coconut.
