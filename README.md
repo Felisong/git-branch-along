@@ -2,13 +2,18 @@
 
 ## Table of Contents
 
-- [List of Recipes](#list-of-recipes)
-  - [Table of Contents](#table-of-contents)
-  - [Brazo de Reina](#brazo-de-reina)
-  - [Cheese Empanadas](#cheese-empanadas)
-  - [Torta de Milhojas](#torta-de-milhojas)
+- [Brazo de Reina](#brazo-de-reina)
+- [Cheese Empanadas](#cheese-empanadas)
+- [Torta de Milhojas](#torta-de-milhojas)
 
 ## Brazo de Reina
+
+- [Cheese Empanadas](#cheese-empanadas)
+- [Torta de Milhojas](#torta-de-milhojas)
+
+## Brazo de Reina
+
+## ![Brazo de Reina](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/b338ab0e-2168-50fb-81ea-3f8801b85772/26118fa7-7381-57be-87f4-e056ca7a6e95.jpg)
 
 To make a delicious Brazo de Reina, a traditional Chilean rolled cake filled with dulce de leche, follow this recipe. This dessert is known for its light sponge cake and rich caramel filling, often topped with coconut.
 Ingredients
@@ -46,6 +51,8 @@ Enjoy your homemade Brazo de Reina, a delightful treat that showcases the rich f
 
 ## Cheese Empanadas
 
+## ![Cheese Empanadas](https://d2u1z1lopyfwlx.cloudfront.net/thumbnails/3043685a-35bd-5bec-8d0d-3eb620481d7e/625e5bf7-b06f-5559-9e48-adb69fe6b6f7.jpg)
+
 Here's a simple and delicious recipe for Cheese Empanadas that you can easily make at home. This recipe features a flaky dough filled with cheese, perfect for frying or baking.
 Ingredients
 For the Dough:
@@ -82,6 +89,8 @@ This recipe yields about 12 empanadas and is perfect for appetizers or snacks! E
 
 ## Torta de Milhojas
 
+## ![](https://www.chileanfoodrecipes.com/wp-content/uploads/2024/02/Recipe-for-Chilean-Homemade-Brazo-de-Reina.jpg)
+
 To prepare a traditional Torta Milhojas (Thousand Layers Cake), a beloved Chilean dessert, follow this detailed recipe. This cake features layers of crispy dough filled with rich dulce de leche and often includes walnuts for added texture.
 Ingredients
 For the Dough:
@@ -117,3 +126,6 @@ Cover the cake and let it rest in the refrigerator for several hours or overnigh
 Notes
 This cake is often enjoyed during special occasions in Chile, such as birthdays and national celebrations. The combination of crispy layers and sweet filling makes it a favorite among many.
 Enjoy your homemade Torta Milhojas, a delightful representation of Chilean culinary tradition!
+
+here's a finishing picture of my cat :D
+![Kinten](images/cat.jpg)
